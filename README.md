@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0d1117&height=140&section=header&text=Giridhar%20Salana&fontSize=38&fontColor=e7e7e7&animation=twinkling" alt="Giridhar Salana" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0d1117&height=240&section=header&text=Giridhar%20Salana&fontSize=40&fontColor=e7e7e7&animation=twinkling" alt="Giridhar Salana" />
 
   <br />
 
@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/giridhar-salana"><img src="https://img.shields.io/badge/LinkedIn-Giridhar_Salana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/IGiridharSalana"><img src="https://img.shields.io/badge/X-@IGiridharSalana-000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:giridharsalana@gmail.com"><img src="https://img.shields.io/badge/Email-giridharsalana%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+  <br /><br /><br />
 
 </div>
 
@@ -108,16 +110,12 @@
       <td align="center"><strong>AlphaZero-style RL agent</strong> — MCTS self-play, <strong>PyTorch</strong>, CPU-friendly</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/youtube-pilot"><strong>youtube-pilot</strong></a></td>
-      <td align="center"><strong>Human-in-the-loop</strong> YouTube pipeline for AI/tech analysis &amp; content workflows</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/Blogger-Automation"><strong>Blogger-Automation</strong></a></td>
-      <td align="center">Automated blogging / content generation workflows</td>
-    </tr>
-    <tr>
       <td align="center"><a href="https://github.com/GiridharSalana/Auto_Vid_Gen"><strong>Auto_Vid_Gen</strong></a></td>
       <td align="center">Video generation automation experiments</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/OpenHands"><strong>OpenHands</strong></a></td>
+      <td align="center">AI software-agent stack — experiments with autonomous coding agents</td>
     </tr>
   </table>
 
