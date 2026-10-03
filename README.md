@@ -1,63 +1,52 @@
-# Hi, I'm Giridhar Salana
 
-**Giri** · electronics engineer · self-taught developer
+<!-- My_Bio_Begin-->
+# Hi There, 
 
-I like building practical tools—especially when firmware, networks, and mobile software meet.
+#    I'm Giridhar Salana
+#    You can call me [Giri][website].  
+##   I'm An Enthusiastic Coder, And I Really Like To Make Things Simple & Perfect. :v:
 
-[![Website](https://img.shields.io/badge/Website-giridharsalana.vercel.app-0ea5e9?style=for-the-badge)](https://giridharsalana.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-giridhar--salana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridhar-salana)
-[![X](https://img.shields.io/badge/X-@IGiridharSalana-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IGiridharSalana)
+###  I'm an Electronics Engineer,Curious Code Learner and An OverThinker.. :blush:
 
----
+- :running: I'm Currently Learning Python and Java Script.
+- :raised_hand: I'm Looking to Contribute to Open Source Projects.
 
-### Now
 
-- Maintaining **[Yala](https://github.com/GiridharSalana/yala)** — my personal Android fork of [nightcodex7/yala](https://github.com/nightcodex7/yala): manage OpenWrt routers over LuCI (Flutter/Dart). [Latest APK →](https://github.com/GiridharSalana/yala/releases/latest)
-- Open to **open-source** contributions where GPL and upstream attribution matter.
 
-### Stack I reach for
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
+### Connect with me:
 
-### Pinned-worthy repos
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://icongr.am/devicon/twitter-original.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://icongr.am/devicon/linkedin-original.svg" />][linkedin]
+<!--[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+<br />
 
-| Project | Notes |
-|--------|--------|
-| [**yala**](https://github.com/GiridharSalana/yala) | OpenWrt/LuCI router app — `com.giridharsalana.yala`, GitHub Releases |
-| [**My_Website**](https://github.com/GiridharSalana/My_Website) | Personal site source |
-| [**omniscient**](https://github.com/GiridharSalana/omniscient) | TypeScript |
-| [**giriwave**](https://github.com/GiridharSalana/giriwave) | Rust |
 
----
+### Languages and Tools:
 
-### GitHub activity
-
-<p align="center">
-  <img
-    height="165"
-    alt="GiridharSalana's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=GiridharSalana&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    height="165"
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharSalana&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="GitHub streak"
-    src="https://streak-stats.demolab.com/?user=GiridharSalana&theme=github-dark&hide_border=true"
-  />
-</p>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/css3-original-wordmark.svg" />
+<img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
+<img align="left" alt="GitHub" width="26px" src="https://icongr.am/devicon/github-original-wordmark.svg" />
+<img align="left" alt="Python" width="26px" src="https://icongr.am/devicon/python-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
+<img align="left" alt="C" width="26px" src="https://icongr.am/devicon/c-original.svg" />
+<br />
+<br />
 
 ---
+### Github Stats:
 
-<sub>Profile README · <a href="https://github.com/GiridharSalana/GiridharSalana">edit on GitHub</a></sub>
+<a href="https://github.com/GiridharSalana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiridharSalana&layout=compact&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</a>
+
+<a href="https://github.com/GiridharSalana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharSalana&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</a>
+
+[website]: https://giridharsalana.vercel.app
+[twitter]: https://x.com/IGiridharSalana
+[linkedin]: https://www.linkedin.com/in/giridhar-salana
