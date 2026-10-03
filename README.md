@@ -206,6 +206,4 @@
     <strong>EDA automation</strong>, and <strong>layout / design-data</strong> — anything that makes engineers and builders faster.
   </p>
 
-  <sub>GitHub since 2018 · 55+ public repos · building in public</sub>
-
 </div>
