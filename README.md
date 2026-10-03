@@ -133,10 +133,6 @@
       <td align="center"><strong>Rust</strong> GDSII &amp; OASIS parser — chip-layout data on your machine</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/yala"><strong>yala</strong></a></td>
-      <td align="center">Personal <strong>OpenWrt / LuCI</strong> Android fork — router management from your phone</td>
-    </tr>
-    <tr>
       <td align="center"><a href="https://github.com/GiridharSalana/Vector_Visualizer"><strong>Vector_Visualizer</strong></a></td>
       <td align="center">Interactive vector / viz playground (web)</td>
     </tr>
@@ -182,7 +178,7 @@
 
   <h3>GitHub pulse</h3>
 
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GiridharSalana&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=007bff&icon_color=007bff&text_color=e7e7e7" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GiridharSalana&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0d1117&title_color=007bff&icon_color=007bff&text_color=e7e7e7" />
   <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharSalana&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=007bff&text_color=e7e7e7&langs_count=8" />
 
   <br /><br />
