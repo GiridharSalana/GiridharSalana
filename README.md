@@ -4,7 +4,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Call+me+Giri;Staff+CAD+Engineer+%40+Marvell;VLSI+%2B+automation+%2B+applied+AI;Silicon+by+day+%C2%B7+software+experiments+by+night" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=640&lines=Call+me+Giri;VLSI+CAD+%2B+Applied+AI;LLMs+%C2%B7+Agents+%C2%B7+RL+%C2%B7+Automation;Silicon+flows+by+day+%C2%B7+AI+products+by+night" alt="Typing intro" />
 
   <br /><br />
 
@@ -23,11 +23,14 @@
   <h3>Who I am</h3>
 
   <p>
-    <strong>Electronics engineer</strong> based in <strong>Bengaluru, India</strong> — autodidact, overthinker, lifelong learner.<br />
-    By day: <strong>VLSI CAD</strong>, <strong>physical verification</strong>, and <strong>layout automation</strong>
-    at <a href="https://www.linkedin.com/in/giridhar-salana">Marvell Technology</a>.<br />
-    By night: <strong>Rust</strong>, <strong>Python</strong>, <strong>Flutter</strong>, and <strong>TypeScript</strong> —
-    from <strong>GDSII parsers</strong> to <strong>LLM CLIs</strong> and <strong>mobile apps</strong>.
+    <strong>Electronics engineer</strong> in <strong>Bengaluru</strong> — autodidact, overthinker, lifelong learner.<br />
+    I split time between <strong>silicon engineering</strong> and <strong>building with AI</strong>: not generic demos, but
+    <strong>LLM-driven tools</strong>, <strong>agents</strong>, <strong>RL</strong>, and <strong>automation</strong> that ship as CLIs, apps, and workflows.
+  </p>
+  <p>
+    <strong>Day job:</strong> Staff CAD @ <a href="https://www.linkedin.com/in/giridhar-salana">Marvell</a> —
+    CAD flows, PV, layout automation, and <strong>applied AI in EDA</strong> (smarter tooling, flow generation, design-data reasoning).<br />
+    <strong>Side builds:</strong> <strong>PyTorch</strong> agents, <strong>Groq / LLM</strong> apps, <strong>Rust + Python</strong> creative tooling, <strong>Flutter</strong> clients.
   </p>
 
   <p><em>Everything is an experiment.</em> — also how I treat new tools, flows, and repos.</p>
@@ -48,6 +51,10 @@
     <tr>
       <td align="center"><strong>Role</strong></td>
       <td align="center">Staff CAD Engineer — CAD flows, automation, design-data tooling</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>AI in EDA</strong></td>
+      <td align="center">Applied AI for CAD — NL-assisted tooling, intelligent flows, design-data analysis (not toy ML)</td>
     </tr>
     <tr>
       <td align="center"><strong>Domains</strong></td>
@@ -73,7 +80,50 @@
 
 <div align="center">
 
-  <h3>Selected open source &amp; experiments</h3>
+  <h3>AI &amp; intelligent systems</h3>
+
+  <table>
+    <tr>
+      <th align="center">Project</th>
+      <th align="center">What it is</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/omniscient"><strong>omniscient</strong></a></td>
+      <td align="center"><strong>AI trading intelligence</strong> — markets, screener, portfolio, India PCR / FII-DII, smart alerts</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/pickr"><strong>pickr</strong></a></td>
+      <td align="center"><strong>LLM recommendations</strong> for film &amp; TV — Flutter · TMDB · <strong>Groq</strong> · Supabase</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/Music_Gen"><strong>Music_Gen</strong></a></td>
+      <td align="center"><strong>LLM → code → audio</strong> — text-to-song CLI; model writes music, synth renders</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/giribeat"><strong>giribeat</strong></a></td>
+      <td align="center"><strong>Natural-language music</strong> — describe a vibe; LLM composes, <strong>Rust</strong> synth plays</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/chess_agents"><strong>chess_agents</strong></a></td>
+      <td align="center"><strong>AlphaZero-style RL agent</strong> — MCTS self-play, <strong>PyTorch</strong>, CPU-friendly</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/youtube-pilot"><strong>youtube-pilot</strong></a></td>
+      <td align="center"><strong>Human-in-the-loop</strong> YouTube pipeline for AI/tech analysis &amp; content workflows</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/Blogger-Automation"><strong>Blogger-Automation</strong></a></td>
+      <td align="center">Automated blogging / content generation workflows</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GiridharSalana/Auto_Vid_Gen"><strong>Auto_Vid_Gen</strong></a></td>
+      <td align="center">Video generation automation experiments</td>
+    </tr>
+  </table>
+
+  <br />
+
+  <h3>Silicon, systems &amp; apps</h3>
 
   <table>
     <tr>
@@ -85,28 +135,8 @@
       <td align="center"><strong>Rust</strong> GDSII &amp; OASIS parser — chip-layout data on your machine</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/Music_Gen"><strong>Music_Gen</strong></a></td>
-      <td align="center">Headless <strong>text-to-song</strong> CLI — LLM writes music as code, synth renders audio</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/giribeat"><strong>giribeat</strong></a></td>
-      <td align="center"><strong>AI CLI music</strong> — describe a vibe in English, Rust synth plays it</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/pickr"><strong>pickr</strong></a></td>
-      <td align="center"><strong>Flutter</strong> movie/TV picks — TMDB, Groq, Supabase (Android, Web, Linux)</td>
-    </tr>
-    <tr>
       <td align="center"><a href="https://github.com/GiridharSalana/yala"><strong>yala</strong></a></td>
       <td align="center">Personal <strong>OpenWrt / LuCI</strong> Android fork — router management from your phone</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/omniscient"><strong>omniscient</strong></a></td>
-      <td align="center">Markets dashboard — screener, portfolio, India PCR / FII-DII, alerts</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/GiridharSalana/chess_agents"><strong>chess_agents</strong></a></td>
-      <td align="center"><strong>AlphaZero-style</strong> chess RL with MCTS self-play (PyTorch)</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/GiridharSalana/Vector_Visualizer"><strong>Vector_Visualizer</strong></a></td>
@@ -115,9 +145,8 @@
   </table>
 
   <p>
-    Also tinkering with <strong>OpenROAD</strong>, <strong>gdsfactory</strong>, <strong>OpenFASOC</strong>,
-    <strong>Verilog</strong> labs, <strong>DotFiles</strong>, and automation scripts —<br />
-    <a href="https://github.com/GiridharSalana?tab=repositories">all repositories</a>
+    Also: <strong>OpenROAD</strong>, <strong>gdsfactory</strong>, <strong>OpenFASOC</strong>, <strong>OpenHands</strong>,
+    <strong>Verilog</strong> labs, <strong>DotFiles</strong> — <a href="https://github.com/GiridharSalana?tab=repositories">all repositories</a>
   </p>
 
 </div>
@@ -128,14 +157,22 @@
 
   <h3>Toolchain</h3>
 
-  <img src="https://skillicons.dev/icons?i=python,rust,flutter,dart,js,ts,linux,git,docker,react,vscode&perline=11" alt="Skills" />
+  <p><strong>AI &amp; ML</strong></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv&perline=8" alt="AI skills" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/LLMs-Agents_RAG-007bff?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Groq-API-412991?style=flat-square" alt="Groq" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-MCTS-FF6F00?style=flat-square" alt="RL" />
+  <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
   <br /><br />
 
+  <p><strong>Engineering &amp; apps</strong></p>
+  <img src="https://skillicons.dev/icons?i=rust,flutter,dart,js,ts,react,linux,git,docker,vscode&perline=10" alt="Engineering skills" />
+  <br /><br />
   <img src="https://img.shields.io/badge/Verilog-EE1D24?style=flat-square" alt="Verilog" />
   <img src="https://img.shields.io/badge/Tcl-1E4C94?style=flat-square" alt="Tcl" />
   <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white" alt="Perl" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white" alt="OpenWrt" />
   <img src="https://img.shields.io/badge/Open_Source-3DDC84?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
 
@@ -165,9 +202,8 @@
 <div align="center">
 
   <p>
-    <strong>Open to collaborating</strong> on meaningful open source — especially <strong>EDA</strong>,
-    <strong>layout data</strong>, <strong>automation</strong>, and <strong>applied AI</strong>
-    that helps engineers ship silicon faster.
+    <strong>Open to collaborating</strong> on <strong>applied AI</strong>, <strong>agents &amp; LLM tooling</strong>,
+    <strong>EDA automation</strong>, and <strong>layout / design-data</strong> — anything that makes engineers and builders faster.
   </p>
 
   <sub>GitHub since 2018 · 55+ public repos · building in public</sub>
